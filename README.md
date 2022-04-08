@@ -1,5 +1,4 @@
-# geecyway.github.io
-geecywayshop
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
