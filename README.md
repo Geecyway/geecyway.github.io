@@ -1,2 +1,0 @@
-# geecyway.github.io
-geecywayshop
